@@ -4,6 +4,7 @@
 
 # 轻之文库
 ## 不时轻声地以俄语遮羞的邻座艾莉同学(時々ボソッとロシア語でデレる隣のアーリャさん)
+
 **aarya.py**
 
 如果没有reportlab或selenium
@@ -20,6 +21,8 @@ webdriver_path = 'chromedriver.exe'
 ```
 
 **如何获得对应版本的chromedriver？**
+
+浏览器的地址栏中输入chrome://version/并回车
 
 chrome122/123/124的浏览器驱动：
 
