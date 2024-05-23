@@ -5,6 +5,8 @@
 # 轻之文库
 ## 不时轻声地以俄语遮羞的邻座艾莉同学(時々ボソッとロシア語でデレる隣のアーリャさん)
 
+https://www.wenkuchina.com/lightnovel/4/catalog
+
 **aarya.py**
 
 如果没有reportlab或selenium
